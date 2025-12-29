@@ -20,7 +20,7 @@ Si prega di rispettare le regole del server per garantire un divertimento equo p
 
 ## 🐛 Supporto e Bug Report
 
-Se riscontri crash, bug o problemi con il modpack, per favore segnalali sul nostro server Discord nel canale dedicato `#supporto` o apri una issue qui su GitHub/GitLab.
+Se riscontri crash, bug o problemi con il modpack, per favore segnalali sul nostro server Discord nel canale dedicato `#🔴『𝚂𝚎𝚐𝚗𝚊𝚕𝚊𝚣𝚒𝚘𝚗𝚒』`.
 
 ---
 *Buon divertimento su ClandestiniCraft!*
